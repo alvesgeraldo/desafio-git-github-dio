@@ -37,4 +37,8 @@ Nos retorna o status dos arquivos locais se ainda seram movidos, se precisam ser
 git pull origin main
 
 Em casos de arquivos no repositório remoto estarem diferentes dos arquivos do nosso repositório local
- 
+
+## Configurações iniciais para a primeira vez que usar o Git 
+
+git config --global user.email "seu e-mail de preferência o mesmo do Github"
+git config --global user.name **o mesmo que usa no github**
